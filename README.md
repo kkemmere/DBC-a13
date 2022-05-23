@@ -14,7 +14,7 @@ Created by Kevin Kemmerer in CS485 (Database System Design)
 ![CustomerOrders.php](https://github.com/kkemmere/DBC-a13/blob/main/images/Screen%20Shot%202020-11-24%20at%2011.38.44%20PM.png)
 <br/>
 
-# Order Details php page (OrderDetails.php)
+# Order Details php page with input "10170" (OrderDetails.php)
 ![OrderDetails.php](https://github.com/kkemmere/DBC-a13/blob/main/images/Screen%20Shot%202020-11-24%20at%2011.39.07%20PM.png)
 <br/>
 
