@@ -5,7 +5,7 @@ Created by Kevin Kemmerer in CS485 (Database System Design)
 <br/>
 
 # main php page
-![Order_Status.html](https://imgur.com/a/VrEYjTf)
+![Order_Status.html](/images/Screen Shot 2020-11-24 at 11.38.27 PM.png)
 
 
 
