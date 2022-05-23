@@ -3,6 +3,7 @@ Project to query database using MySQL, PHP and HTML <br/>
 Created by Kevin Kemmerer in Database System Design
 - Original database to be queried was in MySQL and created by my professor.
 - All information in the database is fake and used for practice only.
+- This project can be manipulated by an SQL Injection attack
 <br/>
 
 # Main html page with input customer name "Auto"(Order_Status.html)
